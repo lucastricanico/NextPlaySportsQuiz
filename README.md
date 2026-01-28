@@ -2,8 +2,7 @@
 
 This project was created as a mini assessment challenge for the Next Play Games Software Engineering Internship.
 
-⸻
-Features
+*Features*
     •    Multiple-choice quiz questions (Soccer & Baseball)
     •    Instant feedback with explanations after each answer
     •    Progress tracking
@@ -14,7 +13,7 @@ Features
 
 ⸻
 
-Tech Stack
+*Tech Stack*
     •    Swift
     •    SwiftUI
     •    MVVM Architecture
@@ -22,7 +21,7 @@ Tech Stack
 
 ⸻
 
-How to Run
+*How to Run*
     1.    Clone the repository
     2.    Open NextPlaySportsQuiz.xcodeproj in Xcode
     3.    Select an iOS simulator
